@@ -1,6 +1,7 @@
 # PythonCalculator
-If you want to test it, click here:https://replit.com/@mihail859/calculator
-To see it click here:https://github.com/mihail859/PythonCalculator/blob/main/Demo.png
+If you want to test it, click here: https://replit.com/@mihail859/calculator
+
+To see it click here: https://github.com/mihail859/PythonCalculator/blob/main/Demo.png
 
 Calculator Program Documentation
 
