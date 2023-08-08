@@ -59,7 +59,7 @@ Plan to Build Calculator Program:
     	- Check for correctness, error handling, and user experience.
 
 Author:  Mihail Zhelyazkov
-Date: 07.082023
+Date: 07.08.2023
 
 
 
